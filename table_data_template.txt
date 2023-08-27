@@ -1,0 +1,6 @@
+table name
+total number of column(s)
+data type of column [c for strings e.g.:char, varchar, date, i for integers e.g.: smallint, f for floats e.g.: numeric, decimal]
+are nulls allowed in this column [y for yes, n for no]
+column name(s)
+row data/content
